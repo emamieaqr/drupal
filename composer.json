@@ -12,14 +12,7 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "https://artifactory.itc.aqr.ir/api/composer/php-remote"
-    },
-    {
-      "type": "composer",
       "url": "https://packages.drupal.org/8"
-    },
-    {
-      "packagist": false
     }
   ],
     "require": {
